@@ -7,7 +7,7 @@ Put my subscriptions (of podcast and other rss feed) into opml. So I can version
 
 I'm currently using google reader as my subscription center for reading. I also use read it later services like [Instapaper](http://www.instapaper.com/) and [Pocket](http://getpocket.com/) (it has lovely Mac client).
 
-Reading is mostly finished in [Reeder](http://reederapp.com/) on iPhone, iPad and my Mac. I occationally use [Instapaper](http://www.instapaper.com/) and [Pocket] to finish long read. For adding article into Reed it later service I will use sharing menu in [Reeder], or use the best bookmarking service [kippt](https://kippt.com/). The workflow is smooth and fun.
+Reading is mostly finished in [Reeder](http://reederapp.com/) on iPhone, iPad and my Mac. I occationally use [Instapaper](http://www.instapaper.com/) and [Pocket](http://getpocket.com/) to finish long read. For adding article into Reed it later service I will use sharing menu in [Reeder], or use the best bookmarking service [kippt](https://kippt.com/). The workflow is smooth and fun.
 
 [Tin's google reader feeds](https://raw.github.com/Tin/subscription-opml/master/google-reader-subscriptions.xml)
 
