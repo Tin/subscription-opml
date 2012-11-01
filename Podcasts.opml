@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+	<title>iTunes Subscribed Feeds</title>
+	<dateCreated>Thu, 01 Nov 2012 04:55:59 GMT</dateCreated>
+	<dateModified>Thu, 01 Nov 2012 04:55:59 GMT</dateModified>
+</head>
+<body>
+	<!-- outdated -->
+	<outline text="Mac Quick Tips" type="rss" xmlUrl="http://www.apple.com/podcasts/quicktips/apple-quick-tip-of-the-week.xml" htmlUrl="http://www.apple.com/business/theater" />
+	<outline text="Tack Sharp" type="rss" xmlUrl="http://feeds.5by5.tv/tacksharp" htmlUrl="http://5by5.tv/tacksharp" />
+	<outline text="Happy Tree Friends" type="rss" xmlUrl="http://podcast.happytreefriends.com/htfrss.xml" htmlUrl="http://podcast.happytreefriends.com" />
+	<outline text="Pragmatic Podcasts" type="rss" xmlUrl="http://pragprog.com/podcasts/feed.rss" htmlUrl="http://pragprog.com/podcasts" />
+	<!-- video -->
+	<outline text="Best of YouTube (video)" type="rss" xmlUrl="http://feeds.feedburner.com/boyt" htmlUrl="http://www.mevio.com/shows/?show=bestofyoutube" />
+	<outline text="TEDTalks (video)" type="rss" xmlUrl="http://feeds.feedburner.com/TEDTalks_video" htmlUrl="http://www.ted.com/talks/list" />
+	<outline text="Apple Keynotes" type="rss" xmlUrl="http://itstreaming.apple.com/podcasts/apple_keynotes/apple_keynotes.xml" htmlUrl="http://www.apple.com/" />
+	<outline text="文涛拍案(HD)" type="rss" xmlUrl="http://feeds2.feedburner.com/wentao_shock_video" htmlUrl="http://podcast.overseakids.com" />
+	<outline text="RailsCasts (Mobile)" type="rss" xmlUrl="http://feeds.feedburner.com/railscasts_ipod" htmlUrl="http://railscasts.com" />
+	<!-- music -->
+	<outline text="Jaytech Music Podcast" type="rss" xmlUrl="http://www.jaytechmusic.com/jaytechmusic/jaytechmusic.xml" htmlUrl="http://www.jaytechmusic.com/jaytechmusic/jaytechmusic.xml" />
+	<outline text="Jazz Piano small pieces" type="rss" xmlUrl="http://www.voiceblog.jp/katsuhiro/rss2.0.xml" htmlUrl="http://www.voiceblog.jp/katsuhiro/" />
+	<outline text="Indie Spotlight" type="rss" xmlUrl="http://www.apple.com/podcasts/indie/indiespotlight.xml" htmlUrl="http://www.itunes.com/indiespotlight" />
+	<outline text="Celebrity Playlist Podcast" type="rss" xmlUrl="http://itstreaming.apple.com/podcasts/celebpod/celebpod.xml" htmlUrl="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=34" />
+	<outline text="Relaxation Music for Sleep, Stress and Anxiety Relief from Enhanced Healing" type="rss" xmlUrl="http://www.enhancedhealing.com/podcast/5minepisodes.xml" htmlUrl="http://www.enhancedhealing.com" />
+	<outline text="Classical Performance Podcast" type="rss" xmlUrl="http://streams.wgbh.org/online/clas/clas_performance.xml" htmlUrl="classicalnewengland.org" />
+	<outline text="OLD - Pureibiza Podcast-Produced by Taku Nakahara-" type="rss" xmlUrl="http://feeds.feedburner.com/pureibiza/CwkX" htmlUrl="http://www.pureibiza.net/" />
+	<!-- programming -->
+	<outline text="The Stack Exchange Podcast" type="rss" xmlUrl="http://blog.stackoverflow.com/?feed=podcast" htmlUrl="http://blog.stackoverflow.com" />
+	<outline text="NodeUp" type="rss" xmlUrl="http://feeds.feedburner.com/NodeUp" htmlUrl="http://nodeup.com" />
+	<outline text="The Changelog" type="rss" xmlUrl="http://feeds.feedburner.com/changelogshow" htmlUrl="http://thechangelog.com" />
+	<outline text="iPhone Dev Screencasts" type="rss" xmlUrl="http://files.mcilvena.com/podcasts/iphone_dev/podcast.xml" htmlUrl="http://blog.mcilvena.com" />
+	<outline text="ThoughtWorks - IT Matters Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/thoughtworks/IT_Matters" htmlUrl="http://podcast.thoughtworks.com/" />
+	<outline text="Ruby on Rails Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/rubyonrailspodcast" htmlUrl="http://podcast.rubyonrails.org" />
+	<outline text="The Ruby Show" type="rss" xmlUrl="http://feeds.feedburner.com/rubyshow" htmlUrl="http://rubyshow.com" />
+	<outline text="Pragmatic Studio Bonus Tracks" type="rss" xmlUrl="http://feeds2.feedburner.com/studio_screencasts" htmlUrl="http://pragmaticstudio.com/screencasts" />
+	<outline text="Ruby5" type="rss" xmlUrl="http://feeds.feedburner.com/Ruby5" htmlUrl="http://ruby5.envylabs.com/" />
+	<outline text="The Dev Show" type="rss" xmlUrl="http://feeds.5by5.tv/devshow" htmlUrl="http://5by5.tv/devshow" />
+	<outline text="Devnology Podcast" type="rss" xmlUrl="http://feeds.devnology.nl/DevnologyPodcast" htmlUrl="http://devnology.nl" />
+	<outline text="This Week in Django - AAC Edition" type="rss" xmlUrl="http://media.djangonetcasts.com/twid_aac.xml" htmlUrl="http://thisweekindjango.com/twid/" />
+	<outline text="SitePoint Podcast" type="rss" xmlUrl="http://www.sitepoint.com/?feed=podcast" htmlUrl="http://www.sitepoint.com" />
+	<outline text="yayQuery (audio only)" type="rss" xmlUrl="http://feeds.feedburner.com/yayQuery_audio" htmlUrl="http://yayquery.com/" />
+	<outline text="CSS-Tricks Screencasts" type="rss" xmlUrl="http://feeds.feedburner.com/CSS-Tricks-Screencasts" htmlUrl="http://css-tricks.com/video-screencasts/" />
+	<outline text="The Official jQuery Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/jQueryPodcast" htmlUrl="http://podcast.jquery.com" />
+	<outline text="YUI Theater" type="rss" xmlUrl="http://feeds.feedburner.com/YuiTheater" htmlUrl="http://developer.yahoo.com/yui/theater/" />
+	<outline text="Vimcasts" type="rss" xmlUrl="http://vimcasts.org/feeds/itunes/" htmlUrl="http://vimcasts.org/episodes/" />
+	<!-- 5by5 tech -->
+	<outline text="Build and Analyze" type="rss" xmlUrl="http://feeds.5by5.tv/buildanalyze" htmlUrl="http://5by5.tv/buildanalyze" />
+	<outline text="The Big Web Show" type="rss" xmlUrl="http://feeds.5by5.tv/bigwebshow" htmlUrl="http://5by5.tv/bigwebshow" />
+	<outline text="The Talk Show" type="rss" xmlUrl="http://feeds.5by5.tv/talkshow" htmlUrl="http://5by5.tv/talkshow" />
+	<outline text="5by5 Specials" type="rss" xmlUrl="http://feeds.5by5.tv/specials" htmlUrl="http://5by5.tv/specials" />
+	<outline text="Roderick on the Line" type="rss" xmlUrl="http://feeds.feedburner.com/RoderickOnTheLine" htmlUrl="http://www.merlinmann.com/roderick/" />
+	<outline text="Iterate" type="rss" xmlUrl="http://feeds.feedburner.com/Iterate" htmlUrl="http://www.iterate.tv/" />
+	<!-- business -->
+	<outline text="HBR IdeaCast" type="rss" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/ideacast" htmlUrl="http://hbrideacast.org" />
+	<outline text="The B&#38;B Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/thebbpodcast" htmlUrl="http://5by5.tv/bb" />
+	<outline text="Hypercritical" type="rss" xmlUrl="http://feeds.5by5.tv/hypercritical" htmlUrl="http://5by5.tv/hypercritical" />
+	<outline text="Amplified" type="rss" xmlUrl="http://feeds.5by5.tv/amplified" htmlUrl="http://5by5.tv/amplified" />
+	<!-- chinese -->
+	<outline text="Qiangqiang3 锵锵三人行" type="rss" xmlUrl="http://feeds2.feedburner.com/qiangqiang3" htmlUrl="http://podcast.overseakids.com" />
+	<outline text="8 Minutes Reading" type="rss" xmlUrl="http://feeds2.feedburner.com/8minutesreading" htmlUrl="http://podcast.overseakids.com" />
+	<outline text="電影最前線" type="rss" xmlUrl="http://feeds2.feedburner.com/tpec15" htmlUrl="http://podcast.overseakids.com/taipei_eclassical/" />
+	<outline text="什麼是音樂" type="rss" xmlUrl="http://feeds2.feedburner.com/tpec11" htmlUrl="http://podcast.overseakids.com/taipei_eclassical/" />
+	<outline text="全曲深度導聆" type="rss" xmlUrl="http://feed.overseakids.com/podcast.php?f=tpec12" htmlUrl="http://podcast.overseakids.com/taipei_eclassical/" />
+	<outline text="文涛拍案（音频）" type="rss" xmlUrl="http://feed.overseakids.com/wentao_shock.xml" htmlUrl="http://podcast.overseakids.com" />
+	<outline text="有报天天读" type="rss" xmlUrl="http://feed.overseakids.com/ttpaper.xml" htmlUrl="http://podcast.overseakids.com" />
+	<outline text="台北爵士夜" type="rss" xmlUrl="http://feeds2.feedburner.com/tpec03" htmlUrl="http://podcast.overseakids.com/taipei_eclassical/" />
+	<outline text="飞鱼秀" type="rss" xmlUrl="http://feeds2.feedburner.com/cri_ez_morning" htmlUrl="http://podcast.overseakids.com" />
+	<outline text="开心听·电台" type="rss" xmlUrl="http://feed.feedsky.com/kxtfm" htmlUrl="http://ear.duomi.com" />
+	<outline text="郎咸平说" type="rss" xmlUrl="http://feeds2.feedburner.com/lang_said" htmlUrl="http://podcast.overseakids.com" />
+	<outline text="财经郎眼" type="rss" xmlUrl="http://feeds2.feedburner.com/lang_eyes" htmlUrl="http://podcast.overseakids.com" />	
+</body>
+</opml>
