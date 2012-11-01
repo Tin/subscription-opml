@@ -46,6 +46,7 @@
 	<outline text="Vimcasts" type="rss" xmlUrl="http://vimcasts.org/feeds/itunes/" htmlUrl="http://vimcasts.org/episodes/" />
 	<!-- 5by5 tech -->
 	<outline text="Build and Analyze" type="rss" xmlUrl="http://feeds.5by5.tv/buildanalyze" htmlUrl="http://5by5.tv/buildanalyze" />
+	<outline text="Systematic" type="rss" xmlUrl="http://feeds.5by5.tv/systematic" htmlUrl="http://5by5.tv/systematic" />
 	<outline text="The Big Web Show" type="rss" xmlUrl="http://feeds.5by5.tv/bigwebshow" htmlUrl="http://5by5.tv/bigwebshow" />
 	<outline text="The Talk Show" type="rss" xmlUrl="http://feeds.5by5.tv/talkshow" htmlUrl="http://5by5.tv/talkshow" />
 	<outline text="5by5 Specials" type="rss" xmlUrl="http://feeds.5by5.tv/specials" htmlUrl="http://5by5.tv/specials" />
